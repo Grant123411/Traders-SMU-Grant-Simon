@@ -6,8 +6,7 @@ This directory contains materials for Level 2, Week 1.
 
 ## Contents
 
-*Grant Simon*  
-*gmsimon@smu.edu*  
+ 
 ## 1. Background in Quant
 
 ## Instructions
@@ -16,8 +15,8 @@ Detailed instructions for Week 1 activities go here.
 
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
+*Grant Simon*  
+*gmsimon@smu.edu*  
 *Level 2 (Associate)*
 
 ## 1. Background in Quantitative Finance
