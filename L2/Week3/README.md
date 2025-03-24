@@ -79,6 +79,6 @@ if p_value < 0.05:
 else:
     print(f"ADF p-value: {p_value} → Residuals are NOT stationary (No cointegration)")
 
-# Alternative: Run Johansen Cointegration Test
+# Some possible alternate method I found using Jahansen cointegration test
 coint_t, p_value, _ = coint(X1, X2)
 print(f"Cointegration p-value: {p_value}")
